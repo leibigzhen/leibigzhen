@@ -10,6 +10,10 @@ This is the way one should see the conditioned.
 <!--START_SECTION:waka-->
 
 ```txt
+From: 07 January 2026 - To: 14 January 2026
+
+Total Time: 0 secs
+
 No activity tracked
 ```
 
