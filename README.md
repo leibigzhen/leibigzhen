@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hey there ⚡ Welcome to Jackson's Page!
+A shooting star, a clouding of the sight, a lamp,<br>
+An illusion, a drop of dew, a bubble,<br>
+A dream, a lightning’s flash, a thunder cloud --<br>
+This is the way one should see the conditioned.
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
 <!--
 **leibigzhen/leibigzhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
