@@ -8,6 +8,11 @@ This is the way one should see the conditioned.
 
 ### Weekly Development Breakdown
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--
