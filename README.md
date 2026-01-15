@@ -1,4 +1,4 @@
-### Energy is Everywhere & Nowhere 🔥
+### 🔥 Energy is Everywhere & Nowhere
 🌠 A shooting star, a clouding of the sight, a lamp,<br>
 🌌 An illusion, a drop of dew, a bubble,<br>
 🌩️ A dream, a lightning’s flash, a thunder cloud --<br>
@@ -6,7 +6,7 @@
 
 ---
 
-### Weekly Development Breakdown 📊
+### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
 ```txt
