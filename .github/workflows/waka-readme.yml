@@ -4,7 +4,7 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # 北京时间 00:00 运行（对应 UTC 16:00）
+    # runs at 00:00 BJT (16:00 UTC)
     - cron: "0 16 * * *"
 
 jobs:
@@ -19,4 +19,3 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
           TIME_RANGE: last_7_days
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
