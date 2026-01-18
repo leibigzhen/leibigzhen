@@ -19,3 +19,4 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
           TIME_RANGE: last_7_days
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
